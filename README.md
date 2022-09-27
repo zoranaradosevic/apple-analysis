@@ -1,2 +1,3 @@
 # apple-analysis
-Analysis of apple size
+
+Analysis of apple size using R.
